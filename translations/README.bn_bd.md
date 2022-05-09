@@ -3,28 +3,28 @@
 ### উপলভ্য অনুবাদসমূহ 🗣
 
 * [Pt-BR](https://bit.ly/3LI8kAc)
-* [zh-CN](translations/README.zh-CN.md)
+* [zh-CN](/README.zh-CN.md)
 * [中文](https://bit.ly/3kE3Ezc)
 * [日本](https://bit.ly/38TCVfm)
 * [Русский](https://bit.ly/3w7d7EL)
 * [Korean](https://bit.ly/3MS4owN)
 * [Indonesian](https://bit.ly/3yeTRrI)
-* [Español (España)](./translations/README.es-es.md)
-* [Español (México)](./translations/README.es-mx.md)
+* [Español (España)](./README.es-es.md)
+* [Español (México)](./README.es-mx.md)
 * [Polski](https://bit.ly/38c411k)
-* [Filipino](./translations/README.tl.md)
-* [Türkçe](./translations/README.tr.md)
-* [French](./translations/README.fr.md)
-* [Nepali](./translations/README.np.md) 
-* [Hindi](./translations/README.hi.md)
-* [Punjabi](./translations/README.pun.md)
-* [German](./translations/README.de.md)
-* [ไทย](./translations/README.th.md)
-* [Arabic](./translations/README.ar.md)
-* [Malay](./translations/README.may.md)
-* [Bangla](./translations/README.bn_bd.md)
+* [Filipino](./README.tl.md)
+* [Türkçe](./README.tr.md)
+* [French](./README.fr.md)
+* [Nepali](./README.np.md) 
+* [Hindi](./README.hi.md)
+* [Punjabi](./README.pun.md)
+* [German](./README.de.md)
+* [ไทย](./README.th.md)
+* [Arabic](./README.ar.md)
+* [Malay](./README.may.md)
+* [Bangla](./README.bn_bd.md)
 
-*নীতিমালা গুলো পড়ুন বা [অনুবাদ করতে অংশগ্রহণ করুন](translations/README.md)!*
+*নীতিমালা গুলো পড়ুন বা [অনুবাদ করতে অংশগ্রহণ করুন](https://github.com/education/GitHubGraduation-2022/blob/main/translations/README.bn_bd.md)!*
 
 ![2022-github-graduation-social-card-1](/assets/GHG_Blog_1.jpg)
 
